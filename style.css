@@ -67,3 +67,8 @@ body {
   height: 60px;
 }
 
+/*log image*/
+img {
+  height: 45px;
+  width: 45px;
+}
