@@ -36,12 +36,12 @@ body {
   color: lightblue;
 }
 
-
 /* installlningar för navigatmain page container */
 .mainpage .container {
   display: flex;
   background-color: #0151cc;
   color: #fff;
+  justify-content: center;
 }
 
 /* installlningar för produkt-boxar container */
